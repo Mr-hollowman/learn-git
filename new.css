@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: aquamarine;
+}
+.constent{
+    width: 500px;
+    border-radius: 7px;
+    background-color: aliceblue;
+}
+.constent h1
+{
+    font-size: 30px;
+    padding: 20px 10px;
+    border-bottom: 1px solid darkgray;
+}
+.data{
+
+    font-size: 20px;
+
+}
+.data .mind
+{
+    letter-spacing: 45px;
+
+}
